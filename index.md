@@ -13,10 +13,11 @@ Syntax highlighted code block
 
 # Wesley Janniere's First CS193 Homework
 ## Header 2
-### Header 3
 
-- Bulleted
-- List
+### What I like about CS193
+- The class is lighthearted and not stressful
+- Homework instructions are easy to understand
+- TAs are relatable and actual students wanting to help
 
 1. Numbered
 2. List
